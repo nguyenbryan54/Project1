@@ -66,13 +66,249 @@ h1{
     display: flex;
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 900;
-    margin-top: -162px;
+    margin-top: -165px;
     padding-left: 15px;
     font-size: 17px;
     justify-content: center;
+
+}
+.date{
+    position:relative;
 }
 p {
    position: absolute;
    bottom: 8px;
    right: 30px;
+}
+
+a:link{
+    text-decoration: none;
+}
+.TCG img{
+    width: 175px;
+   position: absolute;
+   left: 20px;
+   bottom: 25px;
+
+}
+.cards{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    padding-top: 125px;
+}
+.one{
+    display: inline-block;
+    width: 275px;
+    height: 600px;
+    border: 5px solid #B9DCFC;
+    background-color:#81C0FA;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+.one img{
+    padding-left: 25px;
+    width: 225px;
+}
+.one h2{
+    padding-left: 27px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    color: #FF0000;
+}
+.one h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #FFDE00;
+
+}
+.one h4{
+    padding-left: 27px;
+    margin-top: -20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+.one h5{
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 13px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+.two{
+    display: inline-block;
+    width: 275px;
+    height: 600px;
+    border: 5px solid #B9DCFC;
+    background-color:#81C0FA;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+.two img{
+    padding-left: 25px;
+    width: 225px;
+}
+.two h2{
+    padding-left: 27px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    color: #FF0000;
+}
+.two h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #FFDE00;
+
+}
+.two h4{
+    padding-left: 27px;
+    margin-top: -20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+.two h5{
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 13px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+.three{
+    display: inline-block;
+    width: 275px;
+    height: 600px;
+    border: 5px solid #B9DCFC;
+    background-color:#81C0FA;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+.three img{
+    padding-left: 25px;
+    width: 225px;
+}
+.three h2{
+    padding-left: 27px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    color: #FF0000;
+}
+.three h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-top: 58px;
+    font-size: 20px;
+    color: #FFDE00;
+
+}
+.three h4{
+    padding-left: 27px;
+    margin-top: -20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+.three h5{
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 13px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+.four{
+    display: inline-block;
+    width: 275px;
+    height: 600px;
+    border: 5px solid #B9DCFC;
+    background-color:#81C0FA;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+.four img{
+    padding-left: 25px;
+    width: 225px;
+}
+.four h2{
+    padding-left: 27px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    color: #FF0000;
+}
+.four h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #FFDE00;
+
+}
+.four h4{
+    padding-left: 27px;
+    margin-top: -20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+.four h5{
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 13px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+.five{
+    display: inline-block;
+    width: 275px;
+    height: 600px;
+    border: 5px solid #B9DCFC;
+    background-color:#81C0FA;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+.five img{
+    padding-left: 25px;
+    width: 225px;
+}
+.five h2{
+    padding-left: 27px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    color: #FF0000;
+}
+.five h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #FFDE00;
+
+}
+.five h4{
+    padding-left: 27px;
+    margin-top: -20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+}
+.five h5{
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 13px;
+    font-family: 'Noto Sans JP', sans-serif;
+
 }
