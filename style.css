@@ -139,7 +139,13 @@ a:link{
     margin-top: 10px;
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
-
+}
+.one h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+    
 }
 .two{
     display: inline-block;
@@ -185,6 +191,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.two h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .three{
     display: inline-block;
     width: 275px;
@@ -228,6 +240,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.three h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .four{
     display: inline-block;
@@ -273,6 +291,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.four h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .five{
     display: inline-block;
     width: 275px;
@@ -316,6 +340,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.five h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .six{
     display: inline-block;
@@ -361,6 +391,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.six h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .seven{
     display: inline-block;
     width: 275px;
@@ -404,6 +440,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.seven h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .eight{
     display: inline-block;
@@ -449,6 +491,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.eight h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .nine{
     display: inline-block;
     width: 275px;
@@ -492,6 +540,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.nine h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .ten{
     display: inline-block;
@@ -537,6 +591,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.ten h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .eleven{
     display: inline-block;
     width: 275px;
@@ -561,7 +621,7 @@ a:link{
 .eleven h3{
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 700;
-    padding-left: 100px;
+    padding-left: 108px;
     padding-top: 12px;
     font-size: 20px;
     color: #FFDE00;
@@ -580,6 +640,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.eleven h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .twelve{
     display: inline-block;
@@ -625,6 +691,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.twelve h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .thirteen{
     display: inline-block;
     width: 275px;
@@ -668,6 +740,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.thirteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .fourteen{
     display: inline-block;
@@ -713,6 +791,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.fourteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .fifteen{
     display: inline-block;
     width: 275px;
@@ -756,7 +840,14 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
-}.sixteen{
+}
+.fifteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.sixteen{
     display: inline-block;
     width: 275px;
     height: 600px;
@@ -799,6 +890,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.sixteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .seventeen{
     display: inline-block;
@@ -844,6 +941,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.seventeen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .eighteen{
     display: inline-block;
     width: 275px;
@@ -887,6 +990,12 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.eighteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
 .nineteen{
     display: inline-block;
@@ -932,6 +1041,12 @@ a:link{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
+.nineteen h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
+}
 .twenty{
     display: inline-block;
     width: 275px;
@@ -975,4 +1090,10 @@ a:link{
     margin-right: 13px;
     font-family: 'Noto Sans JP', sans-serif;
 
+}
+.twenty h6{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    text-decoration: underline;
 }
