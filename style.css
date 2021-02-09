@@ -98,16 +98,31 @@ html, body{
     margin-right: 75px;
 
 }
+.left img:hover{
+    opacity: 0.5;
+}
+.middleleft img:hover{
+    opacity: 0.5;
+}
+.middleright img:hover{
+    opacity: 0.5;
+}
+.right img:hover{
+    opacity: 0.5;
+}
+
 .middleleft img{
     width: 240px;
     margin-right: 75px;
     margin-left: 75px;
     margin-top: 9px;
+    max-width: 100%;
     
 }
 .middleright img{
     width: 290px;
     margin-right: 75px;
+    max-width: 100%;
     
 }
 .right img{
@@ -221,6 +236,9 @@ a:link{
     text-decoration: underline;
     
 }
+.one h6:hover{
+    color: blue;
+}
 .two{
     display: inline-block;
     width: 275px;
@@ -270,6 +288,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.two h6:hover{
+    color: blue;
 }
 .three{
     display: inline-block;
@@ -321,6 +342,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.three h6:hover{
+    color: blue;
+}
 .four{
     display: inline-block;
     width: 275px;
@@ -371,6 +395,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.four h6:hover{
+    color: blue;
+}
 .five{
     display: inline-block;
     width: 275px;
@@ -420,6 +447,8 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}.five h6:hover{
+    color: blue;
 }
 .six{
     display: inline-block;
@@ -471,6 +500,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.six h6:hover{
+    color: blue;
+}
 .seven{
     display: inline-block;
     width: 275px;
@@ -520,6 +552,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.seven h6:hover{
+    color: blue;
 }
 .eight{
     display: inline-block;
@@ -571,6 +606,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.eight h6:hover{
+    color: blue;
+}
 .nine{
     display: inline-block;
     width: 275px;
@@ -620,6 +658,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.nine h6:hover{
+    color: blue;
 }
 .ten{
     display: inline-block;
@@ -671,6 +712,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.ten h6:hover{
+    color: blue;
+}
 .eleven{
     display: inline-block;
     width: 275px;
@@ -720,6 +764,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.eleven h6:hover{
+    color: blue;
 }
 .twelve{
     display: inline-block;
@@ -771,6 +818,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.twelve h6:hover{
+    color: blue;
+}
 .thirteen{
     display: inline-block;
     width: 275px;
@@ -820,6 +870,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.thirteen h6:hover{
+    color: blue;
 }
 .fourteen{
     display: inline-block;
@@ -871,6 +924,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.fourteen h6:hover{
+    color: blue;
+}
 .fifteen{
     display: inline-block;
     width: 275px;
@@ -920,6 +976,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.fifteen h6:hover{
+    color: blue;
 }
 .sixteen{
     display: inline-block;
@@ -971,6 +1030,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.sixteen h6:hover{
+    color: blue;
+}
 .seventeen{
     display: inline-block;
     width: 275px;
@@ -1020,6 +1082,9 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.seventeen h6:hover{
+    color: blue;
 }
 .eighteen{
     display: inline-block;
@@ -1071,6 +1136,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.eighteen h6:hover{
+    color: blue;
+}
 .nineteen{
     display: inline-block;
     width: 275px;
@@ -1121,6 +1189,9 @@ a:link{
     font-size: 12px;
     text-decoration: underline;
 }
+.nineteen h6:hover{
+    color: blue;
+}
 .twenty{
     display: inline-block;
     width: 275px;
@@ -1170,4 +1241,7 @@ a:link{
     color: red;
     font-size: 12px;
     text-decoration: underline;
+}
+.twenty h6:hover{
+    color: blue;
 }
