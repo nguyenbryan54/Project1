@@ -144,12 +144,12 @@ html, body{
     display: flex;
     justify-content: center;
     margin-top: 290px;
-    width: auto;
 }
 
 .logo img{
     width:300px;
     height: auto;
+    max-width: 100%;
 
 }
 .logo{
