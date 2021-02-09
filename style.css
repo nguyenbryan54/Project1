@@ -10,16 +10,70 @@ html, body{
 .music{
     display: none;
 }
+.ballone{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    padding-right: 1120px;
+    margin-top: -10px;
+    z-index: -1;
+}
+.ballone img{
+    animation: rotation 1s infinite linear;
+}
+.balltwo img{
+    animation: rotation 1s infinite linear;
+}
+.ballthree img{
+    animation: rotation 1s infinite linear;
+}
+.ballfour img{
+    animation: rotation 1s infinite linear;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+.balltwo{
+    width: 100px;
+    height: 100px;
+    z-index: -1;
+    position: absolute;
+    padding-right: 355px;
+    margin-top: -10px;
+}
+.ballthree {
+    width: 100px;
+    height: 100px;
+    padding-left: 340px;
+    top: 105px;
+    position: absolute;
+    z-index: -1;
+}
+.ballfour{
+    width: 100px;
+    height: 100px;
+    padding-left: 980px;
+    top: 105px;
+    position: absolute;
+    z-index: -1;
+}
 .pikachu{
     position: absolute;
     bottom:7%;
     left: 475px;
+    z-index: -1;
 
 }
 .ash{
     position:absolute;
     bottom: 7%;
     left: 500px;
+    z-index:-1;
 }
 
 .set{
@@ -35,13 +89,13 @@ html, body{
 .left img{
     width: 215px;
     margin-right: 75px;
-    
+
 }
 .middleleft img{
     width: 240px;
     margin-right: 75px;
     margin-left: 75px;
-    margin-top: 10px;
+    margin-top: 9px;
     
 }
 .middleright img{
