@@ -147,10 +147,9 @@ html, body{
 }
 
 .logo img{
-    width:300px;
-    height: auto;
+    width:auto;
+    height: 150px;
     max-width: 100%;
-position:absolute;
 }
 .logo{
     display: flex;
