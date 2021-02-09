@@ -153,11 +153,12 @@ a:link{
     text-decoration: none;
 }
 .TCG img{
-    width: 175px;
+   width: 175px;
    position: absolute;
    left: 20px;
    bottom: 25px;
-
+   box-shadow: 3px 3px 5px black;
+   border: 1px solid blue;
 }
 .cards{
     display: flex;
