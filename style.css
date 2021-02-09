@@ -12,9 +12,14 @@ html, body{
 }
 .pikachu{
     position: absolute;
-    bottom:115px;
-    left: 300px;
+    bottom:7%;
+    left: 475px;
 
+}
+.ash{
+    position:absolute;
+    bottom: 7%;
+    left: 500px;
 }
 
 .set{
