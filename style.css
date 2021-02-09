@@ -17,6 +17,9 @@ html, body{
     top: 10px;
     left: 10px;
 }
+.home img:hover{
+    opacity: 0.5;
+}
 .ballone{
     width: 100px;
     height: 100px;
@@ -47,7 +50,6 @@ html, body{
   }
 .balltwo{
     width: 100px;
-    height: 100px;
     z-index: -1;
     position: absolute;
     padding-right: 355px;
@@ -86,7 +88,9 @@ html, body{
 .set{
     display: flex;
     justify-content: center;
-    padding-top: 115px
+    padding-top: 115px;
+    max-width: 100%;
+    height: auto;
 
 }
 .set img{
@@ -117,6 +121,7 @@ html, body{
     margin-left: 75px;
     margin-top: 9px;
     max-width: 100%;
+    height: auto;
     
 }
 .middleright img{
@@ -198,7 +203,9 @@ a:link{
 }
 .one img{
     padding-left: 25px;
+    max-width: 100%;
     width: 225px;
+    height: auto;
 }
 .one h2{
     padding-left: 27px;
@@ -252,6 +259,8 @@ a:link{
 .two img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .two h2{
     padding-left: 27px;
@@ -305,6 +314,8 @@ a:link{
 .three img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .three h2{
     padding-left: 27px;
@@ -358,6 +369,8 @@ a:link{
 .four img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .four h2{
     padding-left: 27px;
@@ -411,6 +424,8 @@ a:link{
 .five img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .five h2{
     padding-left: 27px;
@@ -463,6 +478,8 @@ a:link{
 .six img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .six h2{
     padding-left: 27px;
@@ -516,6 +533,8 @@ a:link{
 .seven img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .seven h2{
     padding-left: 27px;
@@ -569,6 +588,8 @@ a:link{
 .eight img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .eight h2{
     padding-left: 27px;
@@ -622,6 +643,8 @@ a:link{
 .nine img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .nine h2{
     padding-left: 27px;
@@ -675,6 +698,8 @@ a:link{
 .ten img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .ten h2{
     padding-left: 27px;
@@ -728,6 +753,8 @@ a:link{
 .eleven img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .eleven h2{
     padding-left: 27px;
@@ -781,6 +808,8 @@ a:link{
 .twelve img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .twelve h2{
     padding-left: 27px;
@@ -834,6 +863,8 @@ a:link{
 .thirteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .thirteen h2{
     padding-left: 27px;
@@ -887,6 +918,8 @@ a:link{
 .fourteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .fourteen h2{
     padding-left: 27px;
@@ -940,6 +973,8 @@ a:link{
 .fifteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .fifteen h2{
     padding-left: 27px;
@@ -993,6 +1028,8 @@ a:link{
 .sixteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .sixteen h2{
     padding-left: 27px;
@@ -1046,6 +1083,8 @@ a:link{
 .seventeen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .seventeen h2{
     padding-left: 27px;
@@ -1099,6 +1138,8 @@ a:link{
 .eighteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .eighteen h2{
     padding-left: 27px;
@@ -1152,6 +1193,8 @@ a:link{
 .nineteen img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .nineteen h2{
     padding-left: 27px;
@@ -1205,6 +1248,8 @@ a:link{
 .twenty img{
     padding-left: 25px;
     width: 225px;
+    max-width: 100%;
+    height: auto;
 }
 .twenty h2{
     padding-left: 27px;
